@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "zemingzhang/panda:latest",
+    "build-script": "python run.py"
+}
